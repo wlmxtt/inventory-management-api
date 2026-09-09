@@ -43,19 +43,23 @@ An asynchronous RESTful API for inventory management and stock control, built wi
 
 ### ⚙️ Local Setup with Docker
 1. **Clone the repository:**
+   
    ```bash
    git clone [https://github.com/wlmxtt/inventory-management-api.git](https://github.com/wlmxtt/inventory-management-api.git)
    cd inventory-management-api
 
-2. **Run the application stack:**
+3. **Run the application stack:**
+   
    ```bash
    docker compose up --build -d
 
-3. **Access local endpoints:**
+5. **Access local endpoints:**
+   
    * **Swagger UI:** [`http://localhost:8000/docs`](http://localhost:8000/docs)
    * **ReDoc:** [`http://localhost:8000/redoc`](http://localhost:8000/redoc)
 
  ### 🌐 Cloud Deployment
+ 
 * **Base URL:** [`https://inventory-management-api-87vr.onrender.com`](https://inventory-management-api-87vr.onrender.com)
 * **Swagger Docs:** [`https://inventory-management-api-87vr.onrender.com/docs`](https://inventory-management-api-87vr.onrender.com/docs)    
 ---
@@ -98,18 +102,22 @@ An asynchronous RESTful API for inventory management and stock control, built wi
 
 ### ⚙️ Instalación Local con Docker
 1. **Clonar el repositorio:**
+   
    ```bash
    git clone [https://github.com/wlmxtt/inventory-management-api.git](https://github.com/wlmxtt/inventory-management-api.git)
    cd inventory-management-api
 
-2. **Levantar el entorno con Docker Compose:**
+3. **Levantar el entorno con Docker Compose:**
+   
    ```bash
    docker compose up --build -d
 
-3. **Acceder a los endpoints locales:**
+5. **Acceder a los endpoints locales:**
+   
    * **Swagger UI:** [`http://localhost:8000/docs`](http://localhost:8000/docs)
    * **ReDoc:** [`http://localhost:8000/redoc`](http://localhost:8000/redoc)
 
 ### 🌐 Despliegue en la Nube
+
 * **URL Base:** [`https://inventory-management-api-87vr.onrender.com`](https://inventory-management-api-87vr.onrender.com)
 * **Swagger Docs:** [`https://inventory-management-api-87vr.onrender.com/docs`](https://inventory-management-api-87vr.onrender.com/docs)
